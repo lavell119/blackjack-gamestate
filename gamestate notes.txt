@@ -1,0 +1,11 @@
+Info: 
+
+enough information to conduct the game from the server
+might be able to (or have to) draw cards from the client, then send to server
+
+who's turn,
+scores,
+bust,
+chip deduction
+drawn cards
+players
